@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&family=Eagle+Lake&display=swap');
+
+.cuprum-UI {
+  font-family: "Cuprum", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 30;
+  font-style: normal;
+}
+
+.button{
+  display: inline-block;
+  padding: 10px 16px;
+  background: #A8DAB5;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+body{
+  font-family: cuprum; 
+}
+
+nav{
+  margin: 10px 5px;
+}
+
+p{
+  text-indent: 2%;
+}
