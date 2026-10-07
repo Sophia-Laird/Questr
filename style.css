@@ -48,6 +48,15 @@ h2{
 }
 
 tr{
+  width: 100%;
   padding:100px;
   margin: 100px;
+}
+
+td{
+  width: 33%;
+}
+
+.picture:hover{
+
 }
