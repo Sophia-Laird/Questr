@@ -10,14 +10,20 @@
 .button{
   display: inline-block;
   padding: 10px 16px;
-  background: #A8DAB5;
+  background: #1B5E20;
   color: #fff;
   text-decoration: none;
   border-radius: 4px;
 }
 
+
+a{
+  color: #fbffbe;
+}
+
 body{
   font-family: cuprum; 
+  background-color: #e5f8e4;
 }
 
 nav{
@@ -26,4 +32,22 @@ nav{
 
 p{
   text-indent: 2%;
+}
+
+section{
+  background-color: #A8DAB5;
+  border-radius: 5px;
+  width: 75%;
+  align-content: center;
+  margin: 20px 10px;
+}
+
+h2{
+  text-align: center;
+  color:#1B5E20;
+}
+
+tr{
+  padding:100px;
+  margin: 100px;
 }
